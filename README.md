@@ -14,7 +14,7 @@ Hi, Im Leonardo, an IT student with a passion for technology and problem-solving
 
 
 
-![Camera Shots](networking.jpeg.jpg)
+![Camera shots](networking.jpeg.jpg)
 
 
 
