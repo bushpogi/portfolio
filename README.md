@@ -10,7 +10,7 @@ Motivated and detail-oriented third-year BSIT student with hands-on experience i
 ### Projects
 
 
-![Figma](highminds.jpeg.png)
+![Figma](highminds.jpeg.PNG)
 
 
 ### About
