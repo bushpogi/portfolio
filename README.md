@@ -28,5 +28,6 @@ Hi, Im Leonardo, an IT student with a passion for technology and problem-solving
 05/06/2003
 
 ### Contact
-bushpogi135@gmail.com
-09297535219
+- Leonardo Sarte
+- bushpogi135@gmail.com
+- 09297535219
