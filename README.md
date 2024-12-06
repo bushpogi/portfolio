@@ -21,4 +21,4 @@ Motivated and detail-oriented third-year BSIT student with hands-on experience i
 - watching movies
 
 ### Projects
-![Camera shots](bush.jpeg.png)
+![Camera shots](bush.jpeg.jpg)
