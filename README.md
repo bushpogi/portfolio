@@ -13,6 +13,11 @@ Hi, Im Leonardo, an IT student with a passion for technology and problem-solving
 ![Figma](highminds.jpeg.PNG)
 
 
+
+![Camera Shot](Networking.jpeg.jpg)
+
+
+
 ### Hobbies
 - Online Gmaes
 - bond with my friends
