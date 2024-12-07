@@ -16,7 +16,7 @@ Hi, Im Leonardo, an IT student with a passion for technology and problem-solving
 
 
 ### Hobbies
-- Online Gmaes
+- Online Games
 - bond with my friends
 
 ### Favorite Subject
